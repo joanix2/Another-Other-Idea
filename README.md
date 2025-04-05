@@ -1,6 +1,6 @@
 # Another-Other-Idea
 
-Manifeste pour une Organisation Décentralisée du Sens (et du reste)
+Manifeste pour une Organisation Décentralisée
 
 Préambule (qu’on a failli appeler “slide pitch deck”)
 
