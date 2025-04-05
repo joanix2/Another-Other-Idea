@@ -1,8 +1,8 @@
 # Another-Other-Idea
 
-Manifeste pour une Organisation Décentralisée
+## Manifeste pour une Organisation Décentralisée
 
-Préambule (qu’on a failli appeler “slide pitch deck”)
+### Préambule (qu’on a failli appeler “slide pitch deck”)
 
 Marre des startups “révolutionnaires” qui vendent des apps pour mieux respirer entre deux burnouts. Marre des gourous LinkedIn qui confondent leadership et charisme PowerPoint. Et surtout, marre des modèles où t’es soit fondateur, soit follower, soit freelance sous-payé qui fait tout marcher.
 
@@ -14,7 +14,7 @@ Parce que c’est pas le capital qui nous manque. C’est le sens.
 
 ---
 
-1. Le grand refus
+### Le grand refus
 
 Non, on ne veut pas devenir une “licorne”.
 Non, on ne fera pas de pitch en hoodie devant des VCs qui comprennent pas ce qu’est une boucle récursive.
@@ -35,17 +35,17 @@ On est là pour exprimer, construire, et se transformer en construisant.
 
 ---
 
-2. On déclare notre intention (parce qu’on est déclaratifs)
+### On déclare notre intention (parce qu’on est déclaratifs)
 
 Nous croyons en :
 
-Des structures fonctionnelles (dans le sens Haskell, pas “opérationnel en mode consultant”),
+Des structures **fonctionnelles** (dans le sens Haskell, pas “opérationnel en mode consultant”),
 
-Des intentions déclaratives (on dit ce qu’on veut, on laisse les agents IA se débrouiller avec le “comment”),
+Des intentions **déclaratives** (on dit ce qu’on veut, on laisse les agents IA se débrouiller avec le “comment”),
 
-Des systèmes décentralisés, non pas parce que c’est hype, mais parce que le pouvoir est un piège (et on préfère les labyrinthes ouverts),
+Des systèmes **décentralisés**, non pas parce que c’est hype, mais parce que le pouvoir est un piège (et on préfère les labyrinthes ouverts),
 
-L’émergence de micro-génies collectifs.
+L’**émergence** via un ensemble de structures **minimalistes**
 
 
 Nous ne voulons pas dominer.
@@ -54,7 +54,7 @@ Nous voulons jouer sérieusement avec le réel. Comme des enfants qui savent cod
 
 ---
 
-3. Comment on fonctionne (spoiler : sans manager toxique)
+### Comment on fonctionne (spoiler : sans manager toxique)
 
 Chacun apporte ce qu’il peut :
 2h par semaine, une idée bizarre, un algo, un poème YAML.
@@ -68,7 +68,7 @@ Toi, tu déclares ton intention, tu ajoutes du sens, tu rigoles en lisant ce man
 
 ---
 
-4. Un projet ? Quel projet ?
+### Un projet ? Quel projet ?
 
 Le “projet”, c’est de créer l’infrastructure minimale pour que d’autres projets émergent.
 Une sorte de coopérative automatisée pour cerveaux insatisfaits et mains qui veulent créer.
@@ -90,7 +90,7 @@ Si ça échoue, on en tirera une super conférence TEDx.
 
 ---
 
-5. À ceux qui nous rejoindront
+### À ceux qui nous rejoindront
 
 Tu n’es pas un “ressource humaine”.
 Tu n’as pas besoin d’un master en stratégie de l’innovation éthique.
@@ -103,7 +103,7 @@ Mais tu auras un badge moche sur GitHub, et peut-être un peu de lumière dans l
 
 ---
 
-Post-scriptum inutile mais cathartique
+### Post-scriptum inutile mais cathartique
 
 Ce manifeste a été co-écrit par une IA qui ne dort jamais, un humain qui doute souvent, et une poignée d’idées qui refusent de rentrer dans des tableaux Excel.
 Si tu veux corriger une virgule ou réécrire tout le truc : fork it. C’est open source. C’est vivant.
